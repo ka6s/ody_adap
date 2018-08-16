@@ -1,0 +1,15 @@
+#!/bin/csh
+mv bias_adapter.bak ody_adap.bak
+mv bias_adapter.bin ody_adap.bin
+mv bias_adapter-cache.lib ody_adap-cache.lib
+mv bias_adapter.csv ody_adap.csv
+mv bias_adapter.dsn ody_adap.dsn
+mv bias_adapter.kicad_pcb ody_adap.kicad_pcb
+mv bias_adapter.kicad_pcb-bak ody_adap.kicad_pcb-bak
+mv bias_adapter.net ody_adap.net
+mv bias_adapter.pro ody_adap.pro
+mv bias_adapter.rules ody_adap.rules
+mv bias_adapter.sch ody_adap.sch
+mv bias_adapter.ses ody_adap.ses
+mv bias_adapter_v2_bom.xls ody_adap.xls
+mv bias_adapter.xls ody_adap.xls

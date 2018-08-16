@@ -1,0 +1,15 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"J1";"DB15_Male_HighDensity";1;"DB15_Male_HighDensity";;;
+2;"R5,R1,R3,R4,R6,R7,R8,R9,R10,R11,R12";"R_1206_HandSoldering";11;"10K";;;
+3;"C6,C9,C12";"C_1210_HandSoldering";3;"100uF";;;
+4;"C7,C10,C13";"C_1210_HandSoldering";3;"1uF";;;
+5;"C8,C11";"C_1206_HandSoldering";2;"0.1uF";;;
+6;"C14";"C_1206";1;"0.1uF";;;
+7;"CON1";"BARREL_JACK";1;"BARREL_JACK";;;
+8;"P1,P2,P3,P4,P8,P9,P10";"Pin_Header_Straight_1x03";7;"CONN_01X03";;;
+9;"P5,P6,P7";"Pin_Header_Straight_2x04";3;"CONN_02X04";;;
+10;"Q1,Q2,Q3";"TO-92_Molded_Narrow";3;"Q_NMOS_SGD";;;
+11;"U1,U2";"DIP-16_W7.62mm";2;"ULN2003";;;
+12;"J2";"Pin_Header_Straight_1x06_Pitch2.54mm";1;"Conn_01x06";;;
+13;"P11";"Pin_Header_Straight_1x03_Pitch2.54mm";1;"CONN_01X03";;;
+14;"P12";"Pin_Header_Straight_1x05_Pitch2.54mm";1;"CONN_01X05";;;
